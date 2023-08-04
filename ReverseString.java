@@ -6,6 +6,7 @@ class ReverseString{
 
 //        using string builder class to make changes in the same string itself
 //        Scanner sc = new Scanner(System.in);
+//        thsi should be a new line
 //        StringBuilder s = new StringBuilder();
 //
 //        s.append(sc.next());
